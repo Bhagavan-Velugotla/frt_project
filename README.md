@@ -1,4 +1,4 @@
-# Bhagavan
+# Cropping Website
 This is my first FRT project
 I have created this using HTML, CSS, JAVASCRIPT.
 This Webpage is to provide the consultancy to the farmers to gain high profits and yields.
